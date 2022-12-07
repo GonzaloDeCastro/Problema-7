@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Problema-7/static/css/main.e89b0e1f.css",
+    "main.js": "/Problema-7/static/js/main.69d00142.js",
+    "static/js/787.df6e270e.chunk.js": "/Problema-7/static/js/787.df6e270e.chunk.js",
+    "index.html": "/Problema-7/index.html",
+    "main.e89b0e1f.css.map": "/Problema-7/static/css/main.e89b0e1f.css.map",
+    "main.69d00142.js.map": "/Problema-7/static/js/main.69d00142.js.map",
+    "787.df6e270e.chunk.js.map": "/Problema-7/static/js/787.df6e270e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e89b0e1f.css",
+    "static/js/main.69d00142.js"
+  ]
+}
